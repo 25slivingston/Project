@@ -28,4 +28,6 @@ justify-content: center;}
 font-size: 120%;
 padding: 2%}
 
-  
+
+
+  .homepglayout > div {display: flex;}
