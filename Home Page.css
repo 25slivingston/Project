@@ -30,4 +30,5 @@ padding: 2%}
 
 
 
-  .homepglayout > div {display: flex;}
+  .homepglayout {display: flex;
+  padding-top: 1cm;}
