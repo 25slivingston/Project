@@ -33,9 +33,36 @@ padding: 2%}
 
 
 
-
-
 .ProductImages {display:grid;
   padding-top: 2cm;
   padding-left: 6cm;
   padding-right: 4cm;}
+
+
+
+
+
+  .Producttext {display:grid;
+  padding-top: 2cm;
+  padding-left: 5cm;
+  padding-right: 4cm;
+text-align: center;
+color: white;
+font-size: x-large;}
+
+
+
+
+
+.Viewbutton {display:grid;
+  padding-top: 10cm;
+  padding-left: 5cm;
+  padding-right: 4cm;
+text-align: center;
+color: white;
+font-size: x-large;}
+
+.Viewbutton > div:hover {
+  background-color: rgb(245, 232, 237);
+font-size: 120%;
+padding: 2%}

@@ -32,4 +32,10 @@ padding: 2%}
 
   .homepglayout {display: flex;
   padding-top: 1cm;
-  width: 30cm;}
+  width: 30cm;
+text-align: center;}
+
+  .motto {text-align: center;
+  color: white;
+  font-family: unset;
+font-size:430%;}
