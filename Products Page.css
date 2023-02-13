@@ -2,6 +2,8 @@
 justify-content: center;}
 
 
+
+
 .navigationbar {
   display: flex;
   width: 400px;
@@ -32,7 +34,6 @@ padding: 2%}
 
 
 
-
 .ProductImages {display:grid;
   padding-top: 2cm;
   padding-left: 6cm;
@@ -55,9 +56,15 @@ font-size: x-large;}
 
 
 
-
-
 .Viewbutton > div:hover {
   background-color: rgb(245, 232, 237);
 font-size: 120%;
 padding: 2%}
+
+.Viewbutton {display:grid;
+  padding-top: 2cm;
+  padding-left: 5cm;
+  padding-right: 4cm;
+text-align: center;
+color: rgb(186, 246, 255);
+font-size: x-large;}
