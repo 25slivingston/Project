@@ -26,3 +26,23 @@ justify-content: center;}
   background-color: rgb(245, 232, 237);
 font-size: 120%;
 padding: 2%}
+
+
+
+
+.leftside_images {
+  float: left;
+  width: 250px;
+  margin-right: 30px;
+  border: 1px blue solid;
+}
+
+
+.rightside_images {
+  float: right;
+  width: 250px;
+  margin-right: 30px;
+  border: 1px blue solid;
+}
+
+.big_text {font-size: 1cm;}
