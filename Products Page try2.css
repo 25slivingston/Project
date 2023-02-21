@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 .JGB {display: flex;
 justify-content: center;}
 
@@ -36,7 +44,7 @@ padding: 2%}
 
 .ProductImages {display:grid;
   padding-top: 2cm;
-  padding-left: 6cm;
+  padding-left: 7cm;
   padding-right: 4cm;}
 
 
@@ -81,3 +89,39 @@ font-size: x-large;}
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+td.ViewLinks {
+  font-size: 120%;
+  padding: 2%;
+  text-align: center;
+
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+td.ViewLinks:hover {
+  background-color: rgb(245, 232, 237);
+  font-size: 120%;
+  padding: 2%;
+}

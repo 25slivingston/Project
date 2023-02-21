@@ -32,11 +32,28 @@ padding: 2%}
 
 
 
-
-
 .backbutton {
   padding-top: 2cm;
   padding-left: 5cm;
   padding-right: 4cm;;
 color: rgb(186, 246, 255);
 font-size: x-large;}
+
+
+
+
+
+.leftside_images2 {width: 20%;
+float: left;}
+
+.leftside_images {float: left;}
+
+
+.explanation {font-size: 250%;}
+
+
+
+
+
+
+
